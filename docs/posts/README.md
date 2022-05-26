@@ -3,9 +3,12 @@ index: false
 icon: creative
 category:
   - notebok
+dir: 
+    text: notebook
+    link: true
 ---
 
-# 日记本
+# notebook
 
 - [页面展示](page.md)
 

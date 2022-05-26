@@ -4,9 +4,12 @@ icon: creative
 category:
   - notebok
 collapsable: true
+dir: 
+    text: testbook
+    link: true
 ---
 
-# 日记本
+# testbook
 
 - [页面展示](page.md)
 

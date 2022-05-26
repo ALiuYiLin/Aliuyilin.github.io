@@ -1,13 +1,13 @@
 import { sidebar } from "vuepress-theme-hope";
 
 export default sidebar({
-  "/posts/":[
+  // "/posts/":[
     
-    {
-      text: "notebook",
-      icon: "edit",
-      prefix: "",
-      
-      children: "structure",
-    }]
+  //   {
+  //     text: "notebook",
+  //     icon: "edit",
+  //     prefix: "",
+  //     children: "structure",
+  //   }]
+    "/posts/":"structure"
 });
