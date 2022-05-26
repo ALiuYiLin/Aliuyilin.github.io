@@ -5,11 +5,11 @@ category:
   - notebok
 collapsable: true
 dir: 
-    text: notebook
+    text: copybook
     link: true
 ---
 
-# notebook
+# copybook
 
 - [页面展示](page.md)
 
